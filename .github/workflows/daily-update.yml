@@ -1,0 +1,33 @@
+name: Daily AI Update
+
+on:
+  schedule:
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run update
+        run: python scripts/update_daily.py --date $(date -u +%Y-%m-%d)
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md updates/README.md updates/*.md
+            git commit -m "Daily AI update: $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes"
+          fi
