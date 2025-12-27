@@ -17,7 +17,7 @@ AI-Updates/
 ```
 
 ## Quick Links
-- [Latest Briefing](./updates/2025-12-26.md)
+- [Latest Briefing](./updates/2025-12-27.md)
 - [Update Index](./updates/README.md)
 - [Sources](./sources.md)
 

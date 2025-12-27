@@ -2,7 +2,8 @@
 
 | Date | Focus | File |
 | --- | --- | --- |
-| 2025-12-26 | OpenAI: One in a million: celebrating the customers shaping AI's future; Anthropic: Protecting the well-being of our users; Google: Googl... | [2025-12-26](./2025-12-26.md) |
+| 2025-12-27 | OpenAI: One in a million: celebrating the customers shaping AI's future; Anthropic: Protecting the well-being of our users; Google: Googl... | [2025-12-27](./2025-12-27.md) |
+| 2025-12-26 | Daily AI briefing | [2025-12-26](./2025-12-26.md) |
 | 2025-12-25 | Daily AI briefing | [2025-12-25](./2025-12-25.md) |
 | 2025-12-24 | Daily AI briefing | [2025-12-24](./2025-12-24.md) |
 | 2025-12-23 | Daily AI briefing | [2025-12-23](./2025-12-23.md) |
