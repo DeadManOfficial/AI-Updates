@@ -2,7 +2,8 @@
 
 | Date | Focus | File |
 | --- | --- | --- |
-| 2026-01-04 | OpenAI: Announcing OpenAI Grove Cohort 2; Google: The latest AI news we announced in December | [2026-01-04](./2026-01-04.md) |
+| 2026-01-05 | OpenAI: Announcing OpenAI Grove Cohort 2; Google: The latest AI news we announced in December | [2026-01-05](./2026-01-05.md) |
+| 2026-01-04 | Daily AI briefing | [2026-01-04](./2026-01-04.md) |
 | 2026-01-03 | Daily AI briefing | [2026-01-03](./2026-01-03.md) |
 | 2026-01-02 | Daily AI briefing | [2026-01-02](./2026-01-02.md) |
 | 2026-01-01 | Daily AI briefing | [2026-01-01](./2026-01-01.md) |
