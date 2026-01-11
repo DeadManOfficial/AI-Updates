@@ -2,7 +2,8 @@
 
 | Date | Focus | File |
 | --- | --- | --- |
-| 2026-01-10 | OpenAI: OpenAI and SoftBank Group partner with SB Energy; Anthropic: Prompt engineering for Claude's long context window | [2026-01-10](./2026-01-10.md) |
+| 2026-01-11 | OpenAI: OpenAI and SoftBank Group partner with SB Energy; Anthropic: Prompt engineering for Claude's long context window | [2026-01-11](./2026-01-11.md) |
+| 2026-01-10 | Daily AI briefing | [2026-01-10](./2026-01-10.md) |
 | 2026-01-09 | Daily AI briefing | [2026-01-09](./2026-01-09.md) |
 | 2026-01-08 | Daily AI briefing | [2026-01-08](./2026-01-08.md) |
 | 2026-01-07 | Daily AI briefing | [2026-01-07](./2026-01-07.md) |
