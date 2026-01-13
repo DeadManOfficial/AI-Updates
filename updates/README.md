@@ -2,7 +2,8 @@
 
 | Date | Focus | File |
 | --- | --- | --- |
-| 2026-01-12 | OpenAI: OpenAI and SoftBank Group partner with SB Energy; Anthropic: Advancing Claude in healthcare and the life sciences | [2026-01-12](./2026-01-12.md) |
+| 2026-01-13 | OpenAI: OpenAI and SoftBank Group partner with SB Energy; Anthropic: Advancing Claude in healthcare and the life sciences | [2026-01-13](./2026-01-13.md) |
+| 2026-01-12 | Daily AI briefing | [2026-01-12](./2026-01-12.md) |
 | 2026-01-11 | Daily AI briefing | [2026-01-11](./2026-01-11.md) |
 | 2026-01-10 | Daily AI briefing | [2026-01-10](./2026-01-10.md) |
 | 2026-01-09 | Daily AI briefing | [2026-01-09](./2026-01-09.md) |
